@@ -18,7 +18,8 @@ public class Main {
 //         }
 
 int N=5;
-int start = 1;
+// int start = 1;
+int start;
 for(int i =0;i<N;i++){
     if(i%2==0)
     {
