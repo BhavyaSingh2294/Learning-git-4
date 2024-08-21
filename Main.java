@@ -33,7 +33,13 @@ for(int i =0;i<N;i++){
         System.out.print(start);
         start = 1-start;
     }
-    System.out.println();
+    System.out.println(" ");
+    System.out.println("Hello World");
+    System.out.println("Hello World");
+    System.out.println("Hello World");
+    System.out.println("Hello World");
+    System.out.println("Hello World");
+    System.out.println("Hello World");
 }
 
 	}
